@@ -1,6 +1,6 @@
 # React Todo
 
-A [React](https://reactjs.org/) that will display random dad jokes using the [icanhazdadjoke API](https://icanhazdadjoke.com/).
+A [React](https://reactjs.org/) app that will display random dad jokes using the [icanhazdadjoke API](https://icanhazdadjoke.com/).
 
 The project was created for [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) by [Colt Steele](https://github.com/Colt).
 
