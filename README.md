@@ -1,4 +1,4 @@
-# React Todo
+# Dad Jokes
 
 A [React](https://reactjs.org/) app that will display random dad jokes using the [icanhazdadjoke API](https://icanhazdadjoke.com/).
 
